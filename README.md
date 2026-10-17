@@ -1,21 +1,82 @@
-# 💫 About Me:
-hird-year Computer Systems Engineering undergraduate at SLIIT, Sri Lanka.<br><br>I'm passionate about exploring the intersection of hardware and software, with a particular interest in embedded systems, microcontrollers, electronics, and the Internet of Things (IoT).<br><br>🔧 I enjoy turning ideas into practical projects, experimenting with hardware, and learning how computer systems work from the ground up.<br><br>💻 Areas of Interest<br><br>Embedded Systems & Microcontrollers<br><br>Digital System Design & Electronics<br><br>Internet of Things (IoT)<br><br>Control Systems & Robotics<br><br>Computer Networks<br><br>🛠️ Technologies & Tools<br><br>Programming: C, Java, Python, SQL<br><br>Hardware & Embedded: Arduino, ESP32, AVR Assembly<br><br>Design & Simulation: Proteus, EasyEDA<br><br>Other Interests: Networking, circuit design, hardware prototyping<br><br>🚀 What I'm Working On<br><br>Developing embedded systems and IoT-based solutions<br><br>Exploring digital system design and control systems<br><br>Building practical hardware projects and expanding my engineering skills<br><br>🌱 Currently Learning<br><br>Deepening my knowledge of embedded systems, electronics, and computer systems engineering while exploring new technologies and challenging myself through hands-on projects.<br><br>🎸 “Wherever I May Roam” — Metallica
+ <div align="center">
 
+# ₊˚⊹♡ Hey, I'm Akasha! ♡⊹˚₊
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akasha Withanage) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:it24103479@my.sliit.lk) 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Cat typing on a keyboard" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AkashaW69&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AkashaW69&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AkashaW69&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🎓 Computer Systems Engineering Undergraduate
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AkashaW69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+*ฅ^•ﻌ•^ฅ*  
+**Embedded Systems · Electronics · IoT**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AkashaW69&label=visitors&color=9b8bc4&style=flat-square)](https://github.com/AkashaW69)
+
+`⚙️ building things` · `🐾 collecting cats` · `🎸 Metallica on repeat`
 
 ---
-[![](https://komarev.com/ghpvc/?username=AkashaW69&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🐈‍⬛・a little about me
+
+- 🎓 Third-year Computer Systems Engineering undergraduate at SLIIT, Sri Lanka
+- 🔌 Interested in embedded systems, microcontrollers and digital electronics
+- 🌱 Exploring IoT, robotics and hardware prototyping
+- 🛠️ Learning by building, experimenting and figuring things out
+- 🎧 Currently vibing to *Wherever I May Roam* — Metallica
+
+### 🧶・things I work with
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql&theme=dark" alt="C, C++, Java, Python and MySQL" />
+</p>
+
+**Hardware & engineering**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode&theme=dark" alt="Arduino, Raspberry Pi, Git, GitHub and VS Code" />
+</p>
+
+*Also exploring AVR Assembly, ESP32, Proteus and EasyEDA.*
+
+### 🐾・currently tinkering with
+
+- ☀️ Solar-powered fuel quality screening system
+- 🔆 Solar tracking and motor control
+- 💡 Digital logic and embedded system design
+
+### 🌙・my GitHub corner
+
+<p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkashaW69&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="Most used languages" />
+</p>
+
+---
+
+### 🎸・a little soundtrack
+
+*“Wherever I May Roam” — Metallica*
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJlNW9waDBndXhhZGY3dXhvMXF0OXJtMzFwdzlrcTUxaTY4ZjAxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gx54W1mSpeYMg/giphy.gif" width="220" alt="Animated cat" />
+
+### ☁️・find me elsewhere
+
+<a href="https://www.linkedin.com/in/akasha-withanage-85973b360/">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="35" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@akashawithanage1137">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" width="35" alt="YouTube" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:withanageakasha39@gmail.com">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="35" alt="Email" />
+</a>
+
+---
+
+`made with ♡, caffeine & cat distractions`
+
+**Thanks for visiting my little corner of GitHub!** 🐾
+
+</div>
