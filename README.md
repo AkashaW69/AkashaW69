@@ -1,39 +1,42 @@
 
 <h1 align="center">
-  Hey I'm Akasha 🐾
+  Hey, I'm Akasha
 </h1>
 
-<h3 align="center">🎓 Third-year Computer Systems Engineering Undergraduate</h3>
+<h3 align="center">
+  🎓 Third-Year Computer Systems Engineering Undergraduate
+</h3>
 
 <p align="center">
-  <i>ฅ Embedded systems, electronics & cat distractions ฅ</i>
+  <i>Embedded Systems · Digital Electronics · Hardware Engineering</i>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI5YTBleGFkczdoNWdsaGt1YjQ1bGM1eTY2c2lmMmhhZ2x2MzNtdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jZtEA0nyCrVxm/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI5YTBleGFkczdoNWdsaGt1YjQ1bGM1eTY2c2lmMmhhZ2x2MzNtdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jZtEA0nyCrVxm/giphy.gif" alt="Technology animation" />
 </p>
 
 <p align="center">
-  ⚡ building things · 🐈 collecting cats · 🎸 Metallica on repeat
+  ⚡ Design · Develop · Debug · Repeat
 </p>
 
 ---
 
-## 🐈‍⬛ About Me
+## 👩‍💻 About Me
 
 - 🎓 Third-year Computer Systems Engineering undergraduate at SLIIT, Sri Lanka.
-- 🔌 Interested in embedded systems, microcontrollers and digital electronics.
-- ☀️ Exploring IoT, robotics and hardware prototyping.
-- 🛠️ I enjoy turning ideas into practical engineering projects.
-- 🌱 Always learning something new, one project at a time.
+- 🔌 Interested in embedded systems, microcontrollers and digital circuit design.
+- ⚙️ Exploring hardware-software integration, IoT and robotics.
+- 🛠️ Enjoy developing practical engineering prototypes and solving technical problems.
+- 🌱 Continuously strengthening my knowledge of electronics, control systems and computer architecture.
 
-## 🧠 My Focus Areas
+## 🧠 Technical Focus Areas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded%20Systems-8E7CC3?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded Systems" />
   <img src="https://img.shields.io/badge/Digital%20Electronics-B4A7D6?style=for-the-badge&logoColor=white" alt="Digital Electronics" />
-  <img src="https://img.shields.io/badge/IoT-957DAD?style=for-the-badge&logo=espressif&logoColor=white" alt="IoT" />
-  <img src="https://img.shields.io/badge/Robotics-C9B6E4?style=for-the-badge&logo=robot&logoColor=white" alt="Robotics" />
+  <img src="https://img.shields.io/badge/IoT-957DAD?style=for-the-badge&logo=espressif&logoColor=white" alt="Internet of Things" />
+  <img src="https://img.shields.io/badge/Control%20Systems-C9B6E4?style=for-the-badge&logoColor=white" alt="Control Systems" />
+  <img src="https://img.shields.io/badge/Robotics-8064A2?style=for-the-badge&logoColor=white" alt="Robotics" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -55,35 +58,49 @@
 </p>
 
 <p align="center">
-  <i>Also exploring ESP32, AVR Assembly, Proteus and EasyEDA.</i>
+  <i>Working with ESP32, AVR Assembly, Proteus, EasyEDA and microcontroller-based systems.</i>
 </p>
 
 ---
 
-## 🚀 Projects I'm Exploring
+## 🚀 Engineering Projects
 
-- ☀️ **Portable Solar-Powered Fuel Quality Screening System** — an embedded system for screening abnormal fuel samples.
-- 🔆 **Solar Tracking System** — motor positioning and feedback control.
-- 💡 **Digital Pattern Detection System** — sequential logic, shift registers and finite-state machines.
+### ☀️ Portable Solar-Powered Fuel Quality Screening System
+
+An ESP32-based prototype designed to screen fuel samples for abnormal properties using sensor measurements.
+
+**Technologies:** ESP32 · Sensors · Embedded Systems · Solar Power
+
+### 🔆 Solar Tracking System
+
+A closed-loop tracking system using light sensors and a DC motor with encoder feedback to support position control using PID.
+
+**Technologies:** Embedded Control · PID · Motor Control · Sensors
+
+### 💡 Digital Pattern Detection System
+
+A digital logic system combining a pseudo-random sequence generator, PISO shift register and Mealy finite-state machine to detect a specified binary pattern.
+
+**Technologies:** Digital Logic · Finite-State Machines · Shift Registers · Proteus
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Working at a computer" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Engineering and programming animation" />
 </p>
 
 ---
 
-## 🎮 My GitHub Contributions 🐾
+## 🎮 GitHub Contributions
 
 <p align="center">
   <img
     src="./assets/contribution-game.gif"
-    alt="Space shooter game generated from my GitHub contribution history"
+    alt="Space shooter generated from my GitHub contribution history"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <i>🚀 Every commit fuels the adventure — coding through the universe, one contribution at a time! 🐈‍⬛</i>
+  <i>Turning contribution history into a space adventure — one commit at a time.</i>
 </p>
 
 ---
@@ -117,9 +134,9 @@
 </p>
 
 <p align="center">
-  <i>₊˚⊹♡ made with curiosity, code & cat distractions ♡⊹˚₊</i>
+  <i>Building at the intersection of hardware and software.</i>
 </p>
 
 <p align="center">
-  <sub>Thanks for visiting my little corner of GitHub! 🐾</sub>
+  <sub>Thanks for visiting my GitHub profile.</sub>
 </p>
