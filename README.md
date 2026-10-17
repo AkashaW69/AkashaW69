@@ -84,7 +84,7 @@ A digital logic system combining a pseudo-random sequence generator, PISO shift 
 **Technologies:** Digital Logic · Finite-State Machines · Shift Registers · Proteus
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJrd29pejlscDZoNGFuYW5zdmcxN21qaDN4ODAxMGtvMWthdXo4ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/AFaw8obkafVKgp7ewz/giphy.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RsZmZ3MzNheWZiNGdnbjY3d3UxcHgzaGN6MmlnbXo2NWlsdHB3ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NVNwvgYve28dhzXr6b/giphy.gif" />
 </p>
 
 ---
