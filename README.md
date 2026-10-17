@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWsyNTZwYms2M2djNGQwcmZhaTVjYW9kYW9jbGY5cnoxOWwzM25tMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/H0hik4FKVdiSBDAchu/giphy.gif" alt="Cute cat animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI5YTBleGFkczdoNWdsaGt1YjQ1bGM1eTY2c2lmMmhhZ2x2MzNtdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jZtEA0nyCrVxm/giphy.gif"/>
 </p>
 
 <p align="center">
