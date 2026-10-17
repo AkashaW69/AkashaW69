@@ -12,9 +12,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWsyNTZwYms2M2djNGQwcmZhaTVjYW9kYW9jbGY5cnoxOWwzM25tMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/H0hik4FKVdiSBDAchu/giphy.gif" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" alt="Cat typing on a computer" />
-</p>
 
 <p align="center">
   ⚡ building things · 🐈 collecting cats · 🎸 Metallica on repeat
