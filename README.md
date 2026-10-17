@@ -1,76 +1,78 @@
 
-<div align="center">
+<h1 align="center">
+  Hey I'm Akasha 🐾
+</h1>
 
-# 🐈‍⬛ Akasha Withanage
+<h3 align="center">🎓 Third-year Computer Systems Engineering Undergraduate</h3>
 
-### `Computer Systems Engineering Undergraduate`
+<p align="center">
+  <i>ฅ Embedded systems, electronics & cat distractions ฅ</i>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=7B2CBF&height=150&section=header&text=Welcome%20to%20my%20space&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWsyNTZwYms2M2djNGQwcmZhaTVjYW9kYW9jbGY5cnoxOWwzM25tMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/H0hik4FKVdiSBDAchu/giphy.gif" alt="Cute cat animation" />
+</p>
 
-💜 Third-year undergraduate at **SLIIT, Sri Lanka**  
-⚡ Interested in embedded systems, digital electronics, IoT and robotics  
-🌌 Exploring the world one circuit at a time
-
-[![GitHub](https://img.shields.io/badge/GitHub-AkashaW69-181717?style=for-the-badge&logo=github)](https://github.com/AkashaW69)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akasha-withanage-85973b360/)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-7B2CBF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@akashawithanage1137)
-
-</div>
-
----
-
-## 🐾 About Me
-
-- 🎓 Studying **BSc (Hons) in Computer Systems Engineering** at SLIIT.
-- 🔌 Interested in hardware, microcontrollers and embedded systems.
-- 🤖 Exploring robotics, control systems and IoT applications.
-- 🛠️ I enjoy turning engineering concepts into working prototypes.
-- 🌙 A little bit of a night owl with a soft spot for cats and purple aesthetics.
-
-## 💻 Tech Stack
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-7B2CBF?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7B2CBF?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7B2CBF?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7B2CBF?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7B2CBF?style=flat-square&logo=mysql&logoColor=white)
-
-### Embedded Systems & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-7B2CBF?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-7B2CBF?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-7B2CBF?style=flat-square&logo=raspberrypi&logoColor=white)
-![AVR Assembly](https://img.shields.io/badge/AVR%20Assembly-7B2CBF?style=flat-square)
-
-### Tools & Software
-![Git](https://img.shields.io/badge/Git-7B2CBF?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-7B2CBF?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-7B2CBF?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-7B2CBF?style=flat-square)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-7B2CBF?style=flat-square)
+<p align="center">
+  ⚡ building things · 🐈 collecting cats · 🎸 Metallica on repeat
+</p>
 
 ---
 
-## ⚙️ Featured Projects
+## 🐈‍⬛ About Me
 
-### ☀️ Portable Solar-Powered Fuel Quality Screening System
-An ESP32-based prototype designed to screen fuel samples for abnormal properties using sensor measurements.
+- 🎓 Third-year Computer Systems Engineering undergraduate at SLIIT, Sri Lanka.
+- 🔌 Interested in embedded systems, microcontrollers and digital electronics.
+- ☀️ Exploring IoT, robotics and hardware prototyping.
+- 🛠️ I enjoy turning ideas into practical engineering projects.
+- 🌱 Always learning something new, one project at a time.
 
-**Focus:** Embedded systems · IoT · Sensors · Solar power
+## 🧠 My Focus Areas
 
-### 🌞 Solar Tracking System
-A closed-loop solar tracking project using light sensors, a DC motor with encoder feedback, and PID control.
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-8E7CC3?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/Digital%20Electronics-B4A7D6?style=for-the-badge&logoColor=white" alt="Digital Electronics" />
+  <img src="https://img.shields.io/badge/IoT-957DAD?style=for-the-badge&logo=espressif&logoColor=white" alt="IoT" />
+  <img src="https://img.shields.io/badge/Robotics-C9B6E4?style=for-the-badge&logo=robot&logoColor=white" alt="Robotics" />
+</p>
 
-**Focus:** Control systems · PID · Motor control · Embedded systems
+## 🛠️ Languages & Tools
 
-### 🔢 Digital Pattern Detection System
-A digital logic design using a pseudo-random sequence generator, a parallel-in serial-out shift register, and a Mealy finite-state machine to detect a specified bit pattern.
+### 💻 Programming Languages
 
-**Focus:** Digital electronics · FSM · Shift registers · Logic design
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" />
+</p>
+
+### 🔧 Hardware & Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode&theme=dark" alt="Arduino, Raspberry Pi, Git, GitHub and VS Code" />
+</p>
+
+<p align="center">
+  <i>Also exploring ESP32, AVR Assembly, Proteus and EasyEDA.</i>
+</p>
 
 ---
 
-## 🎮 My GitHub Contributions
+## 🚀 Projects I'm Exploring
+
+- ☀️ **Portable Solar-Powered Fuel Quality Screening System** — an embedded system for screening abnormal fuel samples.
+- 🔆 **Solar Tracking System** — motor positioning and feedback control.
+- 💡 **Digital Pattern Detection System** — sequential logic, shift registers and finite-state machines.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Working at a computer" />
+</p>
+
+---
+
+## 🎮 My GitHub Contributions 🐾
 
 <p align="center">
   <img
@@ -81,29 +83,43 @@ A digital logic design using a pseudo-random sequence generator, a parallel-in s
 </p>
 
 <p align="center">
-  🚀 Every contribution becomes part of the adventure. 🐈‍⬛
+  <i>🚀 Every commit fuels the adventure — coding through the universe, one contribution at a time! 🐈‍⬛</i>
 </p>
 
 ---
 
-## 🎧 Currently Vibing To
+## 📈 Most Used Languages
 
-<div align="center">
-
-**Metallica — Wherever I May Roam** 🎸
-
-*Lost somewhere between circuits, code and the cosmos.*
-
-</div>
+<p align="center">
+  <a href="https://github.com/AkashaW69">
+    <img
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkashaW69&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+      height="180"
+      alt="Most used programming languages"
+    />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-### 🌌 Thanks for visiting my little corner of GitHub!
+<p align="center">
+  <a href="https://www.linkedin.com/in/akasha-withanage-85973b360/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="38" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@akashawithanage1137">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="38" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:withanageakasha39@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" width="38" />
+  </a>
+</p>
 
-🐾 `Code • Create • Experiment • Repeat` 🐾
+<p align="center">
+  <i>₊˚⊹♡ made with curiosity, code & cat distractions ♡⊹˚₊</i>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=100&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <sub>Thanks for visiting my little corner of GitHub! 🐾</sub>
+</p>
