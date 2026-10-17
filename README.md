@@ -3,9 +3,12 @@
   Hey, I'm Akasha
 </h1>
 
-<h3 align="center">
-  🎓 Third-Year Computer Systems Engineering Undergraduate
-</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=9B8AC4&center=true&vCenter=true&width=750&lines=Third-Year+Computer+Systems+Engineering+Undergraduate;Embedded+Systems+%26+Microcontrollers;Digital+Electronics+%26+Circuit+Design;C+%7C+C%2B%2B+%7C+Python;Hardware+%2B+Software+Integration;Welcome+to+my+GitHub+Profile"
+    alt="Animated typing introduction"
+  />
+</p>
 
 <p align="center">
   <i>Embedded Systems · Digital Electronics · Hardware Engineering</i>
@@ -84,7 +87,7 @@ A digital logic system combining a pseudo-random sequence generator, PISO shift 
 **Technologies:** Digital Logic · Finite-State Machines · Shift Registers · Proteus
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RsZmZ3MzNheWZiNGdnbjY3d3UxcHgzaGN6MmlnbXo2NWlsdHB3ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NVNwvgYve28dhzXr6b/giphy.gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RsZmZ3MzNheWZiNGdnbjY3d3UxcHgzaGN6MmlnbXo2NWlsdHB3ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NVNwvgYve28dhzXr6b/giphy.gif" alt="Technology animation" />
 </p>
 
 ---
