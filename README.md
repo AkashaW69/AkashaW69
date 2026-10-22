@@ -110,9 +110,6 @@ A digital logic system combining a pseudo-random sequence generator, PISO shift 
   />
 </p>
 
-<p align="center">
-  <i>Turning contribution history into a space adventure — one commit at a time.</i>
-</p>
 
 ---
 
@@ -144,9 +141,7 @@ A digital logic system combining a pseudo-random sequence generator, PISO shift 
   </a>
 </p>
 
-<p align="center">
-  <i>Building at the intersection of hardware and software.</i>
-</p>
+
 
 <p align="center">
   <sub>Thanks for visiting my GitHub profile.</sub>
