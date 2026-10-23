@@ -22,9 +22,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXI5YTBleGFkczdoNWdsaGt1YjQ1bGM1eTY2c2lmMmhhZ2x2MzNtdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jZtEA0nyCrVxm/giphy.gif" alt="Technology animation" />
-</p>
 
 <p align="center">
   ⚡ Design · Develop · Debug · Repeat
@@ -132,9 +129,6 @@ A digital logic system combining a pseudo-random sequence generator, PISO shift 
 <p align="center">
   <a href="https://www.linkedin.com/in/akasha-withanage-85973b360/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="38" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@akashawithanage1137">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="38" />
   </a>&nbsp;&nbsp;
   <a href="mailto:withanageakasha39@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" width="38" />
