@@ -22,17 +22,9 @@
   />
 </p>
 
+
 <p align="center">
   ⚡ Design · Develop · Debug · Repeat
-</p>
-
-<!-- ===================== PROFILE VIEWS ===================== -->
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=AkashaW69&label=Profile%20Views&color=9B8AC4&style=for-the-badge"
-    alt="GitHub Profile Views"
-  />
 </p>
 
 ---
@@ -115,6 +107,7 @@ A digital logic system combining a pseudo-random sequence generator, PISO shift 
   />
 </p>
 
+
 ---
 
 ## 📈 Most Used Languages
@@ -141,6 +134,8 @@ A digital logic system combining a pseudo-random sequence generator, PISO shift 
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" width="38" />
   </a>
 </p>
+
+
 
 <p align="center">
   <sub>Thanks for visiting my GitHub profile.</sub>
