@@ -73,12 +73,6 @@
 
 ## 🚀 Engineering Projects
 
-### ☀️ Portable Solar-Powered Fuel Quality Screening System
-
-An ESP32-based prototype designed to screen fuel samples for abnormal properties using sensor measurements.
-
-**Technologies:** ESP32 · Sensors · Embedded Systems · Solar Power
-
 ### 🔆 Solar Tracking System
 
 A closed-loop tracking system using light sensors and a DC motor with encoder feedback to support position control using PID.
